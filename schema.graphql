@@ -1,0 +1,6 @@
+type RisqTable @table @export {
+   correlationId: ID @primaryKey 
+   deviceId: String
+   decision: String
+   riskScore: Int
+}

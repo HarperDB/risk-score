@@ -1,0 +1,6 @@
+{
+  "name": "risq",
+  "version": "1.0.0",
+  "description": "Risk Score Key-Value store implementation",
+  "type": "module"
+}
